@@ -15,7 +15,6 @@ The purpose of this project is to examine how United Airlines’ departure perfo
   Contains data cleaning, analysis, and visualizations.
 - Detailed_Statistics_Departures.csv 
   Dataset containing United Airlines outbound flights from EWR for 2018 and 2023.
-- Saved plots used in the analysis and presentation.
 - Data Science Final.pptx
   Power point presentation
 
