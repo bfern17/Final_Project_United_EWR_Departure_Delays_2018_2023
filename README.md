@@ -11,14 +11,10 @@ The purpose of this project is to examine how United Airlines’ departure perfo
 - Matplotlib  
 
 ## Files in This Repository
-- FinalProject.ipynb
-  Contains data cleaning, analysis, and visualizations.
-- Detailed_Statistics_Departures.csv 
-  Dataset containing United Airlines outbound flights from EWR for 2018 and 2023.
-- Data Science Final.pptx
-  Power point presentation
-- Final Project Summary.pdf
-  Summarizing my entire work
+- FinalProject.ipynb - Contains data cleaning, analysis, and visualizations.
+- Detailed_Statistics_Departures.csv - Dataset containing United Airlines outbound flights from EWR for 2018 and 2023.
+- Data Science Final.pptx - Power point presentation
+- Final Project Summary.pdf - Summarizing my entire work
 
 ## Key Visualizations
 - Percentage of on-time departures by year  
